@@ -26,7 +26,7 @@ with st.sidebar:
     st.write("This app utilizes an optimized **Naive Bayes and TF-IDF Pipeline** trained on over 50,000 verified news articles.")
     st.divider()
     st.markdown("📈 **Model Metrics**")
-    st.info("🎯 **Accuracy:** 97.0%\n\n🔥 **F1-Score:** 97.0%")
+    st.info("🎯 **Accuracy:** 98.0%\n\n🔥 **F1-Score:** 98.0%")
 
 # 4. Main Banner
 st.title("📰 Fake News Detection Engine")
