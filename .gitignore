@@ -9,10 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Your large model files (so they don't block git pushes)
-*.joblib
-*.pkl
-
 # Operating system files
 .DS_Store
 Thumbs.db

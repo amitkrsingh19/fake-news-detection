@@ -14,3 +14,7 @@ Ensure your local project folder is arranged like this before running or deployi
 ├── app.py                     # The Streamlit application script
 ├── requirements.txt           # Python package dependencies
 └── README.md                  # Project documentation
+
+![Dashboard Screenshot](/image.png)
+
+[Dataset Link](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
